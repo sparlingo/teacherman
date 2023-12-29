@@ -3,7 +3,7 @@
 title: Kevin D Sparling
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Kevin Desmond
@@ -21,29 +21,32 @@ role: Homeroom Teacher | QSI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: QSI | Shenzhen
+    url: https://www.qsi.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interest include robotics, economics, and being a better person. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Data Science
+  - Geophysics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BEd in Primary Education
+      institution: Cape Breton University
+      year: 2025
+    - course: MEd in Technology Education
+      institution: Moreland University
+      year: 2024
+    - course: BSc in Geophysics
+      institution: Memorial University of Newfoundland
+      year: 2011
+    - course: BA in Russian
+      institution: Memorial University of Newfoundland
       year: 2008
 
 # Skills
@@ -53,12 +56,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -96,7 +99,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Kevin Sparling
     label: Follow me on Twitter
     display:
       header: true
@@ -120,5 +123,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Kevin Sparling is currently a Grade 4 homeroom teacher at QSI Shenzhen.
