@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Kevin D Sparling
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kevin Desmond
+last_name: Sparling
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Homeroom Teacher | QSI
 
 # Organizations/Affiliations to show in About widget
 organizations:
